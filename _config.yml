@@ -1,8 +1,6 @@
 title: "Andrea Monserrat Arredondo Rodriguez"
 author: "Data Scientist and Actuary"
-description: "Data Scientist and Actuary with four years of experience with data science projects for different institutions and with applications such as technology, finance, education, agriculture, and health.
-Self-taught, keeping myself in constant learning. With a solid commitment to the community and talent development. Interest in AI ethics and human rights, AI applications for health, business, and climate change.
-<b style=\"color: #f45;\">&lt;3</b>"
+description: "AMAR<b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/andrea-monserrat"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
