@@ -1,4 +1,4 @@
-title:  "Advanced examples"
+title:  "Beepy 3.0"
 mathjax: true
 layout: post
 categories: media
