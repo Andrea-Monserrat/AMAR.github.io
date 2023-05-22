@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {url: "/CV_AMAR.pdf", title: "CV"}
   - {url: "/_pages/Volunteer.md", title: "Volunteer"}
-  - {file: "/_pages//Talks.md", title: "Talks"}
+  - {file: "_pages/Talks.md", title: "Talks"}
   - {file: "/_pages/Publications.md", title: "Publications"}
  
 
