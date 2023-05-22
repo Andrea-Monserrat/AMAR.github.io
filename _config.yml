@@ -18,9 +18,9 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {url: "/AndreaArredondo.pdf", title: "CV"}
-  - {file: "/AndreaArredondo.pdf", title: "Voluntariado"}
-  - {file: "/Speaker.md", title: "Charlas"}
-  - {file: "/Next.md", title: "Proximos eventos"}
+  - {file: "/volunter.md", title: "Volunteer"}
+  - {file: "/Talks.md", title: "Talks"}
+  - {file: "/Publications.md", title: "Publications"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
